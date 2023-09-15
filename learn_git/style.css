@@ -1,0 +1,102 @@
+body {
+    font-family: roboto;
+    background-image: -moz-radial-gradient(sans-serif);
+    background-color: non;
+    text-align: center;
+    color: black;
+    }
+.navbar{
+    font-family: roboto;
+    font-size: large;
+    font-weight: bolder;
+}
+    /* this is the ask about me on the header */
+#about_me{
+    text-align: center;
+    color: black;
+    }
+.about_me{
+background-color: blue;
+}
+.about_me{
+    padding-right: non;
+}
+h2{
+    text-align: center;
+    background-color: rgb(55, 0, 255);
+    color: white;
+}
+
+.cent{
+    text-align: center;
+    color: white
+}
+.center{
+    text-align: left;
+}
+
+/* this is the form section */
+
+.form{
+    text-align: left;
+    background-color: whitesmoke;
+}
+.formh2{
+    text-align: center;
+    color: white
+}
+
+.text_area{
+line-height: 30px;
+padding-right: 710px;
+border-width: none;
+border-radius: none;
+margin-left: 15px;
+}
+.margin{
+    margin-left: 15px;
+}
+
+.submit{
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    padding:;
+    margin-left: 15px;
+    
+}
+.submit:hover{ background-color: #45a049;}
+
+.container{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+div{
+    width: 100%; /* Full width */
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 20px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+    
+}
+.down-form{
+    color: white; 
+    background-color: brown; 
+    height: 50px; 
+    width: 80px; 
+    border: none; 
+    border-radius: 20px;
+
+}
+footer{
+    background-color: rgb(0, 0, 0);
+}
+.RES{
+    color: white;
+}
